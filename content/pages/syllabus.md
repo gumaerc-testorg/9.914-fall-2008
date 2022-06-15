@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, readings, assignments, grading, and the schedule of lecture topics
+  and instructors.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +27,7 @@ Readings for this course come from a variety of peer-reviewed journals and are i
 Course Assignments
 ------------------
 
-Assignments for this course are based on readings from journals and are assigned as shown in the table on the [assignments]({{< baseurl >}}/pages/assignments) page. All assignments are due 3 weeks after the final lecture.
+Assignments for this course are based on readings from journals and are assigned as shown in the table on the {{% resource_link 04869432-3042-ee1f-6c33-84529b2b978e "assignments" %}} page. All assignments are due 3 weeks after the final lecture.
 
 Course Grading
 --------------
