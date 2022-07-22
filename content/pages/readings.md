@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for each lecture
+  topic of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 326a333a-b42b-c4fd-efe3-4b02ef47aef2
 ---
@@ -304,11 +309,11 @@ Gainetdinov, R. R., R. T. Premont, and L. M. Bohn, et al. "Desensitization of G 
 
 Craddock, N., M. J. Owen, and M. C. O'Donovan. "The Catechol-O-Methyl Transferase (COMT) Gene as a Candidate for Psychiatric Phenotypes: Evidence and Lessons." _Molecular Psychiatry_ 11 (2006): 446-58.
 
-Drew, M. R., E. H. Simpson, and C. Kellendonk, et al. "Transient Overexpression of Striatal D2 Receptors Impairs Operant Motivation and Interval Timing." _J Neurosci_ 27, no. 29 (July 18, 2007): 7731-39.
+Drew, M. R., E. H. Simpson, and C. Kellendonk, et al. "Transient Overexpression of Striatal D{{< sub "2" >}} Receptors Impairs Operant Motivation and Interval Timing." _J Neurosci_ 27, no. 29 (July 18, 2007): 7731-39.
 
 Svenningsson P., A. Nishi, and G. Fisone, et al. "DARPP-32: An Integrator of Neurotransmission." _Annu Rev Pharmacol Toxicol_ 44 (2004): 269-96.
 
-Kellendonk C., E. H. Simpson, and H. J. Polan, et al. "Transient and Selective Overexpression of Dopamine D2 Receptors in the Striatum Causes Persistent Abnormalities in Prefrontal Cortex Functioning." _Neuron_ 49 (February 16, 2006): 603-15.
+Kellendonk C., E. H. Simpson, and H. J. Polan, et al. "Transient and Selective Overexpression of Dopamine D{{< sub "2" >}} Receptors in the Striatum Causes Persistent Abnormalities in Prefrontal Cortex Functioning." _Neuron_ 49 (February 16, 2006): 603-15.
 
 Ross, C. A., R. L. Margolis, and A. A. J. Reading, et al. "Neurobiology of Schizophrenia." _Neuron_ 52 (October 5, 2006): 139-53.
 
