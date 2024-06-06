@@ -71,7 +71,7 @@ Psychosis, Schizophrenia
 {{< tdopen >}}
 
 
-Satcher, David, MD, PhD. "{{% resource_link "989510f9-d321-4f34-87e4-b7b4aaeea3cd" "Schizophrenia" %}}." In _Mental Health: A Report of the Surgeon General._ United States Department of Health and Human Services Center for Mental Health Services - Substance Abuse and Mental Health Services Administration site. 1999.
+Satcher, David, MD, PhD. "[Schizophrenia](http://www.helpguide.org/mental/schizophrenia_symptom.htm)." In _Mental Health: A Report of the Surgeon General._ United States Department of Health and Human Services Center for Mental Health Services - Substance Abuse and Mental Health Services Administration site. 1999.
 
 Freedman, Robert. "Schizophrenia." _The N Engl J Med_ 349, no. 18 (2003): 1738-49.
 
